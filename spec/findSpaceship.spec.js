@@ -1,7 +1,5 @@
-const findSpaceship = require('../src/findSpaceship');
-
-describe('findSpaceship', () => {
-  it('should return "Spaceship lost forever." if there is no spaceship on the map', () => {
+describe("findSpaceship", function () {
+  it("should return 'Spaceship lost forever.' if there is no X on the map", function () {
     const map =
       "..........\n" +
       "..........\n" +
