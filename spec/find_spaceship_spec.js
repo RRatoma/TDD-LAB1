@@ -1,4 +1,3 @@
-// spec/findSpaceship.spec.js
 const findSpaceship = require('../src/findSpaceship');
 
 describe('findSpaceship', () => {
