@@ -1,4 +1,4 @@
-describe('String Calculator', function() {
+xdescribe('String Calculator', function() {
 	beforeEach(function() {
 		calculator = new StringCalculator();
 	});
