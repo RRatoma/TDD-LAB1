@@ -1,4 +1,4 @@
 - [ ] Map-String mit `\n` in Zeilen aufteilen
-- [ ] Gibt "Spaceship lost forever." zurück, wenn kein 'X' vorhanden ist
+- [x] Gibt "Spaceship lost forever." zurück, wenn kein 'X' vorhanden ist
 - [ ] Findet das Spaceship 'X' und gibt die Koordinaten [x, y] zurück
 - [ ] Korrekte Umrechnung: unterste Zeile ist y = 0 (Bottom-Left als [0,0])
